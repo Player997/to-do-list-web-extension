@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  width: 300px;
+  padding: 15px;
+  background: #f4f4f4;
+}
+
+h2 {
+  margin: 0 0 10px;
+}
+
+input {
+  width: 75%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-left: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #fff;
+  margin-bottom: 5px;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li.completed {
+  text-decoration: line-through;
+  color: gray;
+}
