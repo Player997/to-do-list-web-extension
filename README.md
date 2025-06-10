@@ -70,4 +70,3 @@ todo-sidebar-extension/
 **Aditya Verma** – [@Player997](https://github.com/Player997)
 
 Made with ❤️ for productivity and learning.
-```
