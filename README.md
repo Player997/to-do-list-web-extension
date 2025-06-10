@@ -68,7 +68,7 @@ todo-sidebar-extension/
 ## 👨‍💻 Author
 
 **Aditya Verma**  
-GitHub: [@Aditya-Verma-GitHub](https://github.com/Aditya-Verma-GitHub)
+GitHub: [@Aditya-Verma-GitHub](https://github.com/Player997)
 
 Made with ❤️ for productivity and learning.
 ```
